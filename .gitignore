@@ -1,2 +1,6 @@
 /Tutorial.url
 /venv/
+/covid_data.csv
+/population.csv
+/properties.csv
+/NN_classifier.sav
